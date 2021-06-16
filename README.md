@@ -10,7 +10,7 @@ So, in this app I've learned how to manage states and props in React,
 moreover, I've learned how to fetch data from an API and how to apply
 that data into my application. Lastly, I've used lists in order to
 display the fetched images. For now, I've used class-based components
-because I want to learn how to work in the older versions of
+because I want to learn how to work in the older versions of React.
 
 ### Final Result
 
